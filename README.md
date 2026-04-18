@@ -96,8 +96,8 @@ ssh ec2-user@your-public-ip
 
 ### 3️⃣ Clone Repository
 ```
-git clone https://github.com/rathaur-hr/ServerMonitoringTool.git
-cd ServerMonitoringTool
+git clone https://github.com/rathaur-hr/MonitorAndHeal.git
+cd MonitorAndHeal
 ```
 
 ### 4️⃣ Install Dependencies
